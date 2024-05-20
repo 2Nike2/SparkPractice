@@ -1,0 +1,17 @@
+pyspark
+spark.version
+
+Ctrl+D
+
+cd spark-3.5.1-bin-hadoop3/
+pyspark
+string = spark.read.text('README.md')
+string.show(10, truncate=False)
+string.count()
+
+filtered = string.filter(string.value.contains('Spark'))
+filtered.count()
+
+Ctrl+D
+
+bin/run-example JavaWordCount README.md
