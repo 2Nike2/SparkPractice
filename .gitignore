@@ -163,3 +163,6 @@ spark-3.5.1-bin-hadoop3/*
 .DS_Store
 
 chapter02/mnm_dataset.csv
+chapter03/sf-fire-calls.csv
+chapter03/fire_calls_parquet/*
+chapter03/spark-warehouse/*
