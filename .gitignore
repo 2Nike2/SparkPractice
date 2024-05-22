@@ -166,3 +166,4 @@ chapter02/mnm_dataset.csv
 chapter03/sf-fire-calls.csv
 chapter03/fire_calls_parquet/*
 chapter03/spark-warehouse/*
+chapter03/mnm_dataset.csv
