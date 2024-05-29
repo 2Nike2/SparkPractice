@@ -168,3 +168,5 @@ chapter03/fire_calls_parquet/*
 chapter03/spark-warehouse/*
 chapter03/mnm_dataset.csv
 chapter04/departuredelays.csv
+chapter04/metastore_db/*
+chapter04/spark-warehouse/*
