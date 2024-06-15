@@ -170,3 +170,6 @@ chapter03/mnm_dataset.csv
 chapter04/departuredelays.csv
 chapter04/metastore_db/*
 chapter04/spark-warehouse/*
+chapter04/csv/*
+chapter04/jsonl/*
+chapter04/parquet/*
