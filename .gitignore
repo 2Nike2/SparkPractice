@@ -173,3 +173,6 @@ chapter04/spark-warehouse/*
 chapter04/csv/*
 chapter04/jsonl/*
 chapter04/parquet/*
+chapter04/parquet_write/*
+chapter04/csv_write/*
+chapter04/jsonl_write/*
