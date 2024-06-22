@@ -177,3 +177,5 @@ chapter04/parquet_write/*
 chapter04/csv_write/*
 chapter04/jsonl_write/*
 chapter04/avro/*
+chapter04/orc/*
+chapter04/orc_write/*
