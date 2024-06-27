@@ -3,6 +3,9 @@
 - JDKを17(もう少し古くて可?)にしないと動かないものがある(新しいバージョンだと存在しない関数がある)  
   JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home  
   とすること
+- PostgreSQL連携では、下記のJDBCドライバをインストール
+  https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.3
+  
 ### 各種サンプル
 https://github.com/databricks/LearningSparkV2
 https://github.com/taka-yayoi/SparkSample/tree/main

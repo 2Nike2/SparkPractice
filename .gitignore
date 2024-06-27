@@ -180,3 +180,5 @@ chapter04/avro/*
 chapter04/orc/*
 chapter04/orc_write/*
 chapter04/train_images/*
+chapter05/jdbc/*
+chapter05/.env
