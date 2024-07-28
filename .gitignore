@@ -182,3 +182,5 @@ chapter04/orc_write/*
 chapter04/train_images/*
 chapter05/jdbc/*
 chapter05/.env
+chapter05/airport-codes-na.txt
+chapter05/departuredelays.csv
